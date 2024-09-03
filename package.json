@@ -1,0 +1,13 @@
+{
+  "name": "switch-check-button",
+  "version": "1.1.7",
+  "description": "A Switch Button for Check",
+  "main": "switch-check-button.common.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["checked", "button", "switch", "switch-check", "switch-button", "check-button"],
+  "author": "Jing.Studio",
+  "mail": "jing.w.studio@outlook.com",
+  "license": "ISC"
+}
